@@ -25,7 +25,8 @@ This project investigates a real-world phishing email sample impersonating Brade
 - **Final Verdict: CONFIRMED PHISHING**
 
 ## 📁 Project Structure
-///phishing-email-investigation/
+```
+phishing-email-investigation/
 │
 ├── README.md
 ├── Investigation-Report.pdf
@@ -35,4 +36,5 @@ This project investigates a real-world phishing email sample impersonating Brade
 │   ├── mxtoolbox-auth-failures.png
 │   ├── mxtoolbox-relay-path.png
 │   └── mxtoolbox-headers.png
-└── email-sample.txt///
+└── email-sample.txt
+```
