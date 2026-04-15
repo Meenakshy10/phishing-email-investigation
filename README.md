@@ -18,11 +18,23 @@ This project investigates a real-world phishing email sample impersonating Brade
 - **WHOIS Lookup (DomainTools)**  
   Used to gather domain registration details and verify legitimacy of the sender domain.
 
+## ⚡ Attack Summary
+- Attack Type: Phishing
+- Technique: Email Spoofing
+- Target: Bank customers
+- Infrastructure: DigitalOcean VPS
+
 ## 🔍 Key Findings
 - Email failed SPF, DKIM, and DMARC authentication checks  
 - Originated from a DigitalOcean VPS server (not associated with a bank)  
 - Sender domain is not related to the legitimate Bradesco Bank  
 - **Final Verdict: CONFIRMED PHISHING**
+
+## 🧠 Skills Demonstrated
+- Email Header Analysis
+- OSINT Investigation
+- Threat Detection
+- Phishing Analysis
 
 ## 📁 Project Structure
 ```
