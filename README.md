@@ -29,7 +29,7 @@ This project investigates a real-world phishing email sample impersonating Brade
 phishing-email-investigation/
 │
 ├── README.md
-├── Phishing email invest report.pdf
+├── investigation report.pdf
 ├── evidence/
 │   ├── virustotal-ip-analysis.png
 │   ├── whois-domain-lookup.png
