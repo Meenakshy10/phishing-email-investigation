@@ -29,12 +29,12 @@ This project investigates a real-world phishing email sample impersonating Brade
 phishing-email-investigation/
 │
 ├── README.md
-├── Investigation-Report.pdf
+├── Phishing email invest report.pdf
 ├── evidence/
 │   ├── virustotal-ip-analysis.png
 │   ├── whois-domain-lookup.png
 │   ├── mxtoolbox-auth-failures.png
 │   ├── mxtoolbox-relay-path.png
 │   └── mxtoolbox-headers.png
-└── email-sample.txt
+└── phishing email1.eml
 ```
